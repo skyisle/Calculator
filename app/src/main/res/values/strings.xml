@@ -4,5 +4,7 @@
     <string name="app_name">Calculator</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="number_format">#,###</string>
+    <string name="btnFindSum">Find Sum</string>
 
 </resources>
